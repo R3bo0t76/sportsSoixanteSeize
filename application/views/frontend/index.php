@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,3 +35,11 @@
 </script>
 </body>
 </html>
+=======
+<body>
+<p>body</p>
+<?php
+p($Teams);
+?>
+</body>
+>>>>>>> f387bf9d9c9fd3b6eaaaf7c7dcc6c3e4e2b9ec69
